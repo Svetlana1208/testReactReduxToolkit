@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  font-size: 24px;
+}
+
+.userList {
+  text-align: start;
+  list-style: none;
+}
